@@ -1,6 +1,7 @@
 # Reto_cuatro
 Reto 4, programación de Computadoras
-En este repositorio se desarrolla el reto 3, aunque sé que en algunas partes se debe hacer correciones :)
+En este repositorio se desarrolla el reto 4 :)
+
 ## Primer Punto
 ### Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula
 ```
